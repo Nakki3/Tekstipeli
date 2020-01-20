@@ -1,26 +1,36 @@
 # Tekstipeli
 O1 tekstipeliprojekti
     
-   ####          #####        ####       ###           ###      ####     ###        ##
- ##    ##     ##            ##    ##     ## ##       ## ##    ##    ##   ## ##      ##
-##      ##      ###        ##      ##    ##  ##     ##  ##   ##      ##  ##   ##    ##
-##      ##         ###     ##      ##    ##   ##   ##   ##   ##      ##  ##    ##   ##
- ##   ##              ##    ##    ##     ##    ## ##    ##    ##    ##   ##      ## ##
-  ####           #####        ####       ##     ###     ##      ####     ##        ###
+   		####          #####        ####       ###           ###      ####     ###        ##
+	 ##    ##     ##            ##    ##     ## ##       ## ##    ##    ##   ## ##      ##
+	##      ##      ###        ##      ##    ##  ##     ##  ##   ##      ##  ##   ##    ##
+	##      ##         ###     ##      ##    ##   ##   ##   ##   ##      ##  ##    ##   ##
+ 	##   ##              ##    ##    ##     ##    ## ##    ##    ##    ##   ##      ## ##
+	 ####           #####        ####       ##     ###     ##      ####     ##        ###
 
-------------------Table of Contents:
-1.----------What is Osomon adventure
-2.----------------------How it works
-3.--------------------------Contents
-3.1---------------------adventure.ui
-3.2------------------------adventure
-3.2.1----------------Adventure.scala
-3.2.2-------------------Action.scala
-3.2.3-------------------Player.scala
-3.2.4-------------------Osomon.scala
-3.2.5---------------------Area.scala
-3.2.6-----------------Opponent.scala
-3.2.7-------------------Battle.scala
+
+
+
+
+
+
+
+
+		------------------Table of Contents:
+		1.----------What is Osomon adventure
+		2.----------------------How it works
+		3.--------------------------Contents
+		3.1---------------------adventure.ui
+		3.2------------------------adventure
+		3.2.1----------------Adventure.scala
+		3.2.2-------------------Action.scala
+		3.2.3-------------------Player.scala
+		3.2.4-------------------Osomon.scala
+		3.2.5---------------------Area.scala
+		3.2.6-----------------Opponent.scala
+		3.2.7-------------------Battle.scala
+
+
 
         1.What is Osomon adventure?
     Osomon Adventure is a textgame, mimicking the hugely popular Pokemon series, just with less details and features.
