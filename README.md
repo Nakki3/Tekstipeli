@@ -1,5 +1,5 @@
-# Tekstipeli
-O1 tekstipeliprojekti
+# Osomon Adventure
+O1 text game
     
    	   ####          #####        ####       ###           ###      ####     ###        ##
 	 ##    ##     ##            ##    ##     ## ##       ## ##    ##    ##   ## ##      ##
